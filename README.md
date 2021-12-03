@@ -1,2 +1,2 @@
-# Advent of code 2021
-Solutions to Advent of Code puzzles using Python, Racket, C#, C++
+# Advent of code 202
+Solutions to Advent of Code puzzles using Rust and Python
