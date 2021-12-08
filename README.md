@@ -1,2 +1,2 @@
-# Advent of code 202
-Solutions to Advent of Code puzzles using Rust and Python
+# Advent of code 2021: finding the sleigh keys
+Solutions to AoC puzzles using Rust and Python
