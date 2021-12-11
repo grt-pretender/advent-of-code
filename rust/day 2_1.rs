@@ -1,4 +1,3 @@
-
 // Input: The submarine can take a series of commands like forward 1, down 2, or up 3:
 
 // - forward X increases the horizontal position by X units;
@@ -25,7 +24,7 @@ fn main() {
     
     for line in input_data {
         let commands: Vec<&str> = line.split(' ').collect();
-        let amount: i32       = commands[1].parse().unwrap();
+        let amount: i32 = commands[1].parse().unwrap();
 
         match commands[0] {
             "forward" => horizontal_position+=amount,
