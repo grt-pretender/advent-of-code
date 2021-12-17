@@ -3,6 +3,8 @@
 // Suppose the lanternfish live forever and have unlimited food and space. 
 // Would they take over the entire ocean?
 
+// Input: The same.
+// Task: How many lanternfish would there be after 256 days?
 
 fn main() {
     let data = part_2//(INSERT INPUT DATA);
