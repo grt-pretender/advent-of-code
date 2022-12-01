@@ -24,4 +24,5 @@ for calories in elves_lines:
 
 result = sorted(values, reverse=True)
 print(result[0] + result[1] + result[2])
-# print(result)
+
+
